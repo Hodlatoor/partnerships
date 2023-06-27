@@ -15,6 +15,20 @@ Aries CrowdSource Engine integration into DevPool is comprised of the following 
 1. **The deployment of a Parimutuel marketplace** driving optimal pricing for future bounties to help optimize the time and cost of projects by accurately scoping associated time and cost with each task therein.
 2. **The integration of the Aries engine** into DevPool and DevPool bounties.
 
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **0a.** | License | MIT |
+| **0b.** | Documentation | We will provide inline documentation |
+| **0c.** | Testing and Testing Guide | Core functions will be covered by unit tests to ensure functionality and robustness. |
+| **0d.** | GitHub Issue | We will provide GitHub Issues as proof of functionality, this is functional as a deliverable because the bot runs on GitHub. |
+| 0e. | Article | We will publish an article that explains what was done as part of the grant. 1. **The deployment of a Parimutuel marketplace** driving optimal pricing for future bounties to help optimize the time and cost of projects by accurately scoping associated time and cost with each task therein. 2. **The integration of the Aries engine** into DevPool and DevPool bounties. |
+| 1. | Substrate module: X | No Substrate deliverables |
+| 2. | Substrate module: Y | No Substrate deliverables |
+| 3. | Substrate module: Z | No Substrate deliverables |
+| 4. | Substrate chain | No Substrate deliverables |
+| 5. | Library: ABC | No Substrate deliverables |
+| 6. | Smart contracts: ... | No Substrate deliverables |
+
 **Milestone 2 (Aries DevPool applied user experience enhancements)**
 
 - **Estimated Duration:** 1 month
