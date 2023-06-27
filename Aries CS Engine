@@ -12,16 +12,17 @@ Aries CrowdSource Engine integration into DevPool is comprised of the following 
 - **FTE:** 3
 - **Costs:** 10,000 USD
 
+//I included these points to the Milestone table. If the Milestone table is approved by Jon, then these points should be deleted.
 1. **The deployment of a Parimutuel marketplace** driving optimal pricing for future bounties to help optimize the time and cost of projects by accurately scoping associated time and cost with each task therein.
 2. **The integration of the Aries engine** into DevPool and DevPool bounties.
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | **0a.** | License | MIT |
-| **0b.** | Documentation | We will provide inline documentation |
+| **0b.** | Documentation | Inline documentation will be provided. |
 | **0c.** | Testing and Testing Guide | Core functions will be covered by unit tests to ensure functionality and robustness. |
-| **0d.** | GitHub Issue | We will provide GitHub Issues as proof of functionality, this is functional as a deliverable because the bot runs on GitHub. |
-| 0e. | Article | We will publish an article that explains what was done as part of the grant. 1. **The deployment of a Parimutuel marketplace** driving optimal pricing for future bounties to help optimize the time and cost of projects by accurately scoping associated time and cost with each task therein. 2. **The integration of the Aries engine** into DevPool and DevPool bounties. |
+| **0d.** | GitHub Issue | We will provide GitHub Issues as proof of functionality. This is functional as a deliverable because the bot runs on GitHub. |
+| 0e. | Article | We will publish an article that explains what was done as part of the grant. In this Milestone: 1. **The deployment of a Parimutuel marketplace** driving optimal pricing for future bounties to help optimize the time and cost of projects by accurately scoping associated time and cost with each task therein. 2. **The integration of the Aries engine** into DevPool and DevPool bounties. |
 | 1. | Substrate module: X | No Substrate deliverables |
 | 2. | Substrate module: Y | No Substrate deliverables |
 | 3. | Substrate module: Z | No Substrate deliverables |
@@ -50,6 +51,21 @@ Aries CrowdSource Engine integration into DevPool is comprised of the following 
     - a custom message that partners can use to greet new hunters
     - show a list of all of the bot commands that the new hunter can invoke.
 
+    
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **0a.** | License | MIT |
+| **0b.** | Documentation | Inline documentation will be provided. |
+| **0c.** | Testing and Testing Guide | Core functions will be covered by unit tests to ensure functionality and robustness. |
+| **0d.** | GitHub Issue | We will provide GitHub Issues as proof of functionality. This is functional as a deliverable because the bot runs on GitHub. |
+| 0e. | Article | We will publish an article that explains what was done as part of the grant. In this Milestone: 1. **First Time Bounty Hunter Tutorial** 2. **Max Bounty Hunter Issues system controls** 3. **Toggle Config for Comment Incentives for Bounty Hunters** (Let repo specific enable/disable config for bounty hunters to collect comment incentives. Selectively enabling support for bounty hunters to collect comment incentives (e.g. provide a daily update on that onlydust listing)) 4. **Add first time contributor message by partner** (The two business problems to solve are:  - a custom message that partners can use to greet new hunters, - show a list of all of the bot commands that the new hunter can invoke.) |
+| 1. | Substrate module: X | No Substrate deliverables |
+| 2. | Substrate module: Y | No Substrate deliverables |
+| 3. | Substrate module: Z | No Substrate deliverables |
+| 4. | Substrate chain | No Substrate deliverables |
+| 5. | Library: ABC | No Substrate deliverables |
+| 6. | Smart contracts: ... | No Substrate deliverables |
+
 **Milestone 3 (Aries DevPool related process optimization)**
 
 - **Estimated Duration:** 1 month
@@ -67,3 +83,17 @@ Aries CrowdSource Engine integration into DevPool is comprised of the following 
     - Help maintain pricing and process accuracy
 4. **Compensation Multiplier Control and Warning Mechanisms**
     - This feature is designed to limit a contributor's compensation for any bounty on the current repository due to other compensation structures (eg salary)
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **0a.** | License | MIT |
+| **0b.** | Documentation | Inline documentation will be provided. |
+| **0c.** | Testing and Testing Guide | Core functions will be covered by unit tests to ensure functionality and robustness. |
+| **0d.** | GitHub Issue | We will provide GitHub Issues as proof of functionality. This is functional as a deliverable because the bot runs on GitHub. |
+| 0e. | Article | We will publish an article that explains what was done as part of the grant. In this Milestone: 1. **Contributor Comment Financial Incentives** (- This will enable support for compensating pull request reviewers and synchronizing the calculation and permit generation once the bounty is completed.) 2. **Implement stale issues report** (- Every Monday the bot should generate a report for stale issues and post the report to Telegram group, - Every Monday find all issues that have not been resolved for at least 7 days since their creation, generate a report from them and post to Telegram group. If there were no unresolved issues then do not post anything.) 3. **Contributor Dashboard Tooling: Multisend Permit Claims** 4. **Disable Bounties for "Parent Issues"** (- Help maintain pricing and process accuracy) 5. **Compensation Multiplier Control and Warning Mechanisms** (- This feature is designed to limit a contributor's compensation for any bounty on the current repository due to other compensation structures (eg salary)) |
+| 1. | Substrate module: X | No Substrate deliverables |
+| 2. | Substrate module: Y | No Substrate deliverables |
+| 3. | Substrate module: Z | No Substrate deliverables |
+| 4. | Substrate chain | No Substrate deliverables |
+| 5. | Library: ABC | No Substrate deliverables |
+| 6. | Smart contracts: ... | No Substrate deliverables |
